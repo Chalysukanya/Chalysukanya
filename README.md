@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @Chalysukanya
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SukanyaThimane&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sukanya&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 -  <a href='www.google.co.th'>click me </a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
