@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Chalysukanya
-<a href='www.google.co.th'>click me </a>
-
+- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+-  <a href='www.google.co.th'>click me </a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
